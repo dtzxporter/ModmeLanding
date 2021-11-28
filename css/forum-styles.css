@@ -1,0 +1,197 @@
+/* --- Begin user group color overrides --- */
+
+.user-rank-0:before {
+    content: "Modme User";
+}
+
+.user-rank-1:before {
+    content: "Modme Founder";
+}
+
+.user-rank-2:before {
+    content: "Modme Moderator";
+}
+
+.user-rank-3:before {
+    content: "Modme Guardian";
+}
+
+.user-rank-4:before {
+    content: "Banned";
+}
+
+.user-rank-5:before {
+    content: "Modme QA Head";
+}
+
+.user-rank-6:before {
+    content: "Modme Administrator";
+}
+
+.user-group-0 {
+    color: white;
+}
+
+.user-group-1 {
+    color: #EC34CA !important;
+}
+
+.user-group-1:hover {
+    text-shadow: 0 0 5px #EC34CA;
+}
+
+.user-group-2 {
+    color: #CCFF33 !important;
+}
+
+.user-group-2:hover {
+    text-shadow: 0 0 5px #CCFF33;
+}
+
+.user-group-5 {
+    color: #e74c3c !important;
+}
+
+.user-group-5:hover {
+    text-shadow: 0 0 5px #e74c3c;
+}
+
+.user-group-6 {
+    color: #37a7f1 !important;
+}
+
+.user-group-6:hover {
+    text-shadow: 0 0 5px #37a7f1;
+}
+
+/* --- Begin topic tag overrides --- */
+
+.topic-tag-1 {
+    color: white;
+    background-color: #4fa052;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-2 {
+    color: white;
+    background-color: #FF8F00;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-3 {
+    color: white;
+    background-color: #d32f2f;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-4 {
+    color: white;
+    background-color: #D81B60;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-5 {
+    color: white;
+    background-color: #0277BD;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-7 {
+    color: white;
+    background-color: #009688;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-8 {
+    color: white;
+    background-color: #5E35B1;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-tag-9 {
+    color: white;
+    background-color: #039BE5;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-stickied {
+    color: white;
+    background-color: #424242;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic-locked {
+    color: white;
+    background-color: #424242;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
