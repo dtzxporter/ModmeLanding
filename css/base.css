@@ -1056,8 +1056,8 @@ select {
     cursor: pointer;
     border: none;
     border-radius: 2px !important;
-    display: inline-block;
-    height: 32px;
+    display: inline-flex;
+    align-items: center;
     line-height: 32px;
     outline: 0;
     padding: 0 1.5rem;
